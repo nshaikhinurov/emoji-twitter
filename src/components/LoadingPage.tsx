@@ -1,4 +1,4 @@
-const Spinner = ({ size }: { size?: number }) => {
+export const Spinner = ({ size }: { size?: number }) => {
   return (
     <div role="status">
       <svg
